@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\sonyb\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sonyb\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_[824][Casual].1791876632.00" t="ExcludeRecursive" />
+    <e p="C:\Users\sonyb\Documents\Projects\DayProjects\[824][Casual]" t="IncludeRecursive">
+      <e p="[824][Casual].sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="AttackRocket" t="Include">
+            <e p="AttackRocket.cs" t="Include" />
+          </e>
+          <e p="Element" t="Include">
+            <e p="CameraFollow.cs" t="Include" />
+            <e p="DeathTrigger.cs" t="Include" />
+            <e p="LevelObj.cs" t="Include" />
+            <e p="Rocket.cs" t="Include" />
+          </e>
+          <e p="Enemy" t="Include">
+            <e p="Bomb.cs" t="Include" />
+          </e>
+          <e p="Man" t="Include">
+            <e p="Audio.cs" t="Include" />
+            <e p="Game.cs" t="Include" />
+            <e p="Levels.cs" t="Include" />
+            <e p="Values.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="Player.cs" t="Include" />
+            <e p="PlayerAttacker.cs" t="Include" />
+            <e p="PlayerMove.cs" t="Include" />
+          </e>
+          <e p="Spawner" t="Include">
+            <e p="Spawner.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
