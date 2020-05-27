@@ -1,12 +1,22 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="edb58002-4f6f-44c7-b115-6cea2add175a" name="Default Changelist" comment="" />
+    <list default="true" id="edb58002-4f6f-44c7-b115-6cea2add175a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.[824][Casual]/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.[824][Casual]/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.[824][Casual]/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.[824][Casual]/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AttackRocket/AttackRocket.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AttackRocket/AttackRocket.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Element/Rocket.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Element/Rocket.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Man/Values.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Man/Values.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Spawner/Spawner.cs" root0="FORCE_HIGHLIGHTING" />
@@ -18,6 +28,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Man/Levels.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerAttacker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Man/Audio.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/game.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Element/Rocket.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Element/LevelObj.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Element/CameraFollow.cs" root0="FORCE_HIGHLIGHTING" />
@@ -31,20 +42,21 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Element/LevelObj.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Element/CameraFollow.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMove.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Element/Rocket.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Spawner/Spawner.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Man/Values.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerAttacker.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Man/Audio.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Bomb.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Man/Levels.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/AttackRocket/AttackRocket.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Man/Game.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Man/Values.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Element/Rocket.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AttackRocket/AttackRocket.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1cJ9B44HhyrDcAaBj1kW7ItJrJ5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
@@ -90,6 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590235698184</updated>
       <workItem from="1590235722882" duration="9018000" />
+      <workItem from="1590558106219" duration="255000" />
     </task>
     <servers />
   </component>
@@ -98,6 +111,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>

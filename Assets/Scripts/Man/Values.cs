@@ -14,6 +14,8 @@ public class Values : MonoBehaviour
 
     public Text killsText;
 
+    public Text ammoText;
+
     public Text bestKillSText;
     
     public int startHealth = 100;
@@ -22,9 +24,13 @@ public class Values : MonoBehaviour
 
     public int needKillsToComplete = 50;
 
+    public int startAmmo = 50;
+
     private int _nowHealth;
 
     private int _nowArmor;
+
+    private int _nowAmmo;
 
     private int _nowKills;
 
@@ -69,6 +75,17 @@ public class Values : MonoBehaviour
         }
     }
 
+    public int NowAmmo
+    {
+        get => _nowAmmo;
+        set
+        {
+            _nowAmmo = value;
+
+            ammoText.text = value.ToString();
+        }
+    }
+
     private int BestKills
     {
         get => PlayerPrefs.GetInt("best");
@@ -106,6 +123,8 @@ public class Values : MonoBehaviour
         Instance.ArmorNow = Instance.startArmor;
 
         Instance.KillsNow = 0;
+
+        Instance.NowAmmo = Instance.startAmmo;
     }
     
     private void Awake()

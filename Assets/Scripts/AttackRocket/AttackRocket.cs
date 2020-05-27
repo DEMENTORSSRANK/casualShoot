@@ -32,8 +32,6 @@ public class AttackRocket : MonoBehaviour
     {
         if (HaveRocket)
             return;
-        
-        
 
         _toGoPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 
@@ -44,6 +42,11 @@ public class AttackRocket : MonoBehaviour
 
         if (Game.Instance.menu.activeSelf)
             return;
+        
+        if (Values.Instance.NowAmmo <= 0)
+            return;
+
+        Values.Instance.NowAmmo--;
         
         Audio.Instance.Shoot();
         
